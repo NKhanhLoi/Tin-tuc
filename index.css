@@ -1,0 +1,90 @@
+#Food-tour {
+    color: black;
+    font-size: 32px;
+    text-align: center;
+}
+.menu {
+    color: black;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.menu:hover {
+    color: red;
+}
+.frist {
+    margin: 0;
+    margin-right: 20px;
+}   
+.frist-HN {
+    margin: 0;
+    margin-right: 200px;
+}
+#danh-sach {
+    position: sticky;
+    background-color: white;
+    top: 0px;
+    left: 100px;
+}
+#ngay-thang-chi-tiet {
+    text-align: right;
+}
+#ngay-thang {
+        text-decoration: none;
+}
+.p {
+    font-weight: 500;
+}
+.khong-in-dam {
+    font-weight: 100;
+}
+#bai-lien-quan {
+    border: 1px solid #CCC;
+    padding: 20px;
+}
+.ml-10 {
+    margin-left: 20px;
+}
+.fs-22 {
+    font-size: 22px;
+}
+.ke-hang {
+    border-bottom: 1px solid #CCC;
+}
+.gian-cach-border {
+    margin: 15px 0 15px 0;
+}
+.text-center {
+    text-align: center;
+}
+#duong-line {
+    border-top: 5px solid #636363;
+}
+.ul-footer {
+    list-style: none;
+    padding: 0;
+}
+#footer .ul-footer a {
+    color: black;
+    text-decoration: none;
+}
+#footer .ul-footer a:hover {
+    text-decoration: underline;
+    color: hotpink;
+}
+.text-bold {
+    font-weight: bold;
+}
+#dang-nhap-voi-email {
+    margin: 20px 0 20px 0;
+}
+#lay-lai-mat-khau {
+    margin-top: 10px;
+    color: #636363;
+    text-decoration: none;
+}
+#backgroud {
+    background-color: rgb(199, 118, 162);
+}
+.xoa-gach-chan {
+    text-decoration: none;
+}
